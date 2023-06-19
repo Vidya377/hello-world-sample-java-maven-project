@@ -1,3 +1,12 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h1> build and deployment has done using poll scm   </h1>
-<h1> Automating deployment job for reference  </h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3 style="color:Tomato;">Hello World</h3>
+
+<p style="color:DodgerBlue;">Build and deployment job...</p>
+
+<p style="color:MediumSeaGreen;">Welcome to Jenkins..</p>
+
+</body>
+</html>
