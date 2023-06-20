@@ -8,7 +8,7 @@
 
 <p style="color:MediumSeaGreen;">Welcome to Jenkins..</p>
 
-<p style="color:MediumSeaGreen;">Webhooks ..</p>
+<p style="color:MediumSeaGreen;">Webhooks configuration..</p>
 
 </body>
 </html>
